@@ -9,6 +9,8 @@ Here you can find a list of all free tailwind css components and templates, incl
  - [Tailwind css components](https://github.com/app-generator/tailwind-css-components)
  - [Creative Tim – Tailwind started kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/documentation/download)
  - [Tailwind compnents](https://tailwindcomponents.com/components)
+ - [Meraki UI](https://merakiui.com/)
+ 
 
 ## Tailwind css free templates
 
@@ -18,3 +20,6 @@ Here you can find a list of all free tailwind css components and templates, incl
 
  - [Vue tailwind](https://www.vue-tailwind.com/)
  - [Creative tim- vue components](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/documentation/vue/alerts)
+
+## Tailwind css (NPM)
+ - [Meraki UI](https://github.com/merakiui/merakiui)
