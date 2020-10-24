@@ -10,6 +10,7 @@ Here you can find a list of all free tailwind css components and templates, incl
  - [Creative Tim – Tailwind started kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/documentation/download)
  - [Tailwind compnents](https://tailwindcomponents.com/components)
  - [Meraki UI](https://merakiui.com/)
+ - [Tailwind Design](https://tailwindesign.com/)
  
 
 ## Tailwind css free templates
